@@ -1,5 +1,8 @@
 # oragan_donation app 
- # This android application will help user to get organ donor and doctors. This system has two
+
+
+
+This android application will help user to get organ donor and doctors. This system has two
    entities namely, Admin and User. Admin can login using credentials. Admin can view all
     Doctors and they can add, update and delete Doctors.
 
